@@ -1,2 +1,3 @@
-# jeunlee.github.io
-personal portfolio page
+# portfolio
+
+bootstrapping with create react app to build my portfolio site
